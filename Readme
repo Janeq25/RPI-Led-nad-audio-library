@@ -1,8 +1,1 @@
-moja wersja odtwarza plik .waw, najego podstawie ustawia trzy piny gpio dla trzech kolorów paska led i podaje audio na jacka
-muzyka musi być w formacie waw
-wszystkie ścieżki są hardkodowane
-zero komentarzy XD
-musisz ogarnąć wszystkie biblioteki które są tam importowane
-ten program pobierał dwa argumenty. Jeden to była nazwa folderu, drugi nazwa pliku .waw do odtworzenia
-w środku był if który ustawiał czy ma lecieć muzyka ze światłem czy sama muzyka
-nwm na ile ci się to przyda
+Wav file audio player with music responsive RGB led strip visualisation.
